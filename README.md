@@ -1,3 +1,3 @@
 #Contador de clicks
 
-Este es un contador de clicks crado con HTML, CSS, JS y React
+Este es un contador de clicks creado con HTML, CSS, JS y React
