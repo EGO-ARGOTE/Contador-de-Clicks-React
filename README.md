@@ -1,3 +1,3 @@
-#Calculadora
+#Contador de clicks
 
-Esta es una calculadora creada con HTML, CSS, JS y React
+Este es un contador de clicks crado con HTML, CSS, JS y React
